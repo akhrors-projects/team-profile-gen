@@ -1,5 +1,5 @@
 {
-  "name": "unit10hw",
+  "name": "team profile generator",
   "version": "1.0.0",
   "description": "OOP and testing for week 10 homework",
   "main": "app.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "https://github.com/akhrors-projects/team-profile-gen.git"
   },
-  "author": "",
+  "author": "Akhror",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/akhrors-projects/team-profile-gen.git"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "hhttps://github.com/akhrors-projects/team-profile-gen.git",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
